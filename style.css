@@ -567,7 +567,7 @@ li{
     }
 
     .section-1{
-        height: 980vh;
+        height: 760vh;
     }
 
     /* End of Section 1 */
@@ -583,8 +583,18 @@ li{
     }
 
     .section-1{
-        height: 830vh;
-    }
+        height: 850vh;
+    }    
+}
 
-    /* End of Section 1 */       
+@media(max-width: 414px){
+    .section-1{
+        height: 950vh;
+    }    
+}
+
+@media(max-width: 360px){
+    .section-1{
+        height: 1210vh;
+    }    
 }
