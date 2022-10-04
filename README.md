@@ -36,6 +36,9 @@ and more.
 Currently in the process of acquiring new skills. 
 Learning the programming ingineering with The Rolling Scopes School.
 
+- Where do I want to work? 
+I will want to work as a front-end developer or JavaScript Developer
+
 ### Skills 
 
 - JavaScript 
@@ -69,7 +72,9 @@ My latest projects:
 
 ### Education
 
-- Zero To Mastery Academy
+- currently a student at the Rolling Scopes School.
+
+- Zero To Mastery Academy 
   
 - Udemy - The Complete JavaScript Course 2022: From Zero to Expert! (69 total hours) - in progress
   
@@ -77,10 +82,15 @@ My latest projects:
   
 - Udemy - Kurs Tworzenia Stron WWW cz. I - HTML, CSS, RWD (10 total hours) - Completed
   
-- Udemy - Kurs Tworzenia Stron WWW cz. II - SASS, JS, Bootstrap (10 total hours) - Complete
+- Udemy - Kurs Tworzenia Stron WWW cz. II - SASS, JS, Bootstrap (10 total hours) - Completed
   
 - MMC School - Kurs Tworzenia Stron WWW cz. 3 (10 total hours) - Completed
   
 - Udemy - JavaScript - Jedyny Kurs, Którego Potrzebujesz! (10 total hours) - Completed
 
 - Udemy - 10 projektów w czystym JavaScript (10 total hours) - Completed
+
+### Language
+
+- English B2
+- Polish Native
