@@ -20,7 +20,7 @@ ________________________________________________________________________________
 
 - Passionate about education, web development, creating, designing and     programming websites and internet applications. Always in a state of continuous learning.
 
-I specialize in front-end technologies:
+- I specialize in front-end technologies:
 HTML5
 CSS/CSS3/SCSS
 JavaScript
@@ -32,7 +32,7 @@ SEO
 Soon Angular
 and more.
 
-Where do I work?
+- Where do I work?
 Currently in the process of acquiring new skills. 
 Learning the programming ingineering with The Rolling Scopes School.
 
