@@ -21,15 +21,15 @@ ________________________________________________________________________________
 - Passionate about education, web development, creating, designing and     programming websites and internet applications. Always in a state of continuous learning.
 
 - I specialize in front-end technologies:
-HTML5
-CSS/CSS3/SCSS
-JavaScript
-Responsive Design
-Bootstrap 5
-Git + Github
-NPM
-SEO
-Soon Angular
+HTML5,
+CSS/CSS3/SCSS,
+JavaScript,
+Responsive Design,
+Bootstrap 5,
+Git + Github,
+NPM,
+SEO,
+Soon Angular,
 and more.
 
 - Where do I work?
@@ -68,3 +68,19 @@ My latest projects:
 - https://elomlody.netlify.app
 
 ### Education
+
+- Zero To Mastery Academy
+  
+- Udemy - The Complete JavaScript Course 2022: From Zero to Expert! (69 total hours) - in progress
+  
+- Udemy - The Complete Web Developer in 2022: Zero to Mastery (38.5 total hours) - in progress
+  
+- Udemy - Kurs Tworzenia Stron WWW cz. I - HTML, CSS, RWD (10 total hours) - Completed
+  
+- Udemy - Kurs Tworzenia Stron WWW cz. II - SASS, JS, Bootstrap (10 total hours) - Complete
+  
+- MMC School - Kurs Tworzenia Stron WWW cz. 3 (10 total hours) - Completed
+  
+- Udemy - JavaScript - Jedyny Kurs, Którego Potrzebujesz! (10 total hours) - Completed
+
+- Udemy - 10 projektów w czystym JavaScript (10 total hours) - Completed
