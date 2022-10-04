@@ -8,7 +8,7 @@ ________________________________________________________________________________
 
 ### **Contact with me**
 
-**Linkedln:** <https://www.linkedin.com/in/marek-samofa%C5%82-0380901\>
+**Linkedln:** <https://www.linkedin.com/in/marek-samofa%C5%82-038090150/>
 
 **GitHub** [Markus-Sm](https://github.com/Markus-Sm)
 
@@ -72,23 +72,23 @@ My latest projects:
 
 ### Education
 
-- currently a student at the Rolling Scopes School.
+- Currently a student at the Rolling Scopes School.
 
 - Zero To Mastery Academy 
   
-- Udemy - The Complete JavaScript Course 2022: From Zero to Expert! (69 total hours) - in progress
+- Udemy course - The Complete JavaScript Course 2022: From Zero to Expert! (69 total hours) - in progress
   
-- Udemy - The Complete Web Developer in 2022: Zero to Mastery (38.5 total hours) - in progress
+- Udemy course - The Complete Web Developer in 2022: Zero to Mastery (38.5 total hours) - in progress
   
-- Udemy - Kurs Tworzenia Stron WWW cz. I - HTML, CSS, RWD (10 total hours) - Completed
+- Udemy course - Kurs Tworzenia Stron WWW cz. I - HTML, CSS, RWD (10 total hours) - Completed
   
-- Udemy - Kurs Tworzenia Stron WWW cz. II - SASS, JS, Bootstrap (10 total hours) - Completed
+- Udemy course - Kurs Tworzenia Stron WWW cz. II - SASS, JS, Bootstrap (10 total hours) - Completed
   
-- MMC School - Kurs Tworzenia Stron WWW cz. 3 (10 total hours) - Completed
+- MMC School course - Kurs Tworzenia Stron WWW cz. 3 (10 total hours) - Completed
   
-- Udemy - JavaScript - Jedyny Kurs, Którego Potrzebujesz! (10 total hours) - Completed
+- Udemy course - JavaScript - Jedyny Kurs, Którego Potrzebujesz! (10 total hours) - Completed
 
-- Udemy - 10 projektów w czystym JavaScript (10 total hours) - Completed
+- Udemy course - 10 projektów w czystym JavaScript (10 total hours) - Completed
 
 ### Language
 
